@@ -1,0 +1,7 @@
+#quarto-document-content::before {
+  content: "";
+  display: block;
+  height: 12px;
+  margin-bottom: 1.5rem;
+  background-color: #557c78;
+}
